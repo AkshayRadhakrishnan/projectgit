@@ -1,4 +1,4 @@
 import time
  def time():
-	www.google/qtest/com
+	www.google/qtest/com.check
 	return False
